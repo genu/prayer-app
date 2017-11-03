@@ -1,6 +1,6 @@
 # prayer-app
 
-> A Vue.js project
+> Vue.js project
 
 ## Build Setup
 
